@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mozilla Firefox",
+    "desc": "is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January, 2018",
+    "image": "https://www.mozilla.org/media/protocol/img/logos/firefox/logo-lg-high-res.7ba3ce88e665.png"
+  },
+  {
+  "name": "Google Chrome",
+  "desc": "is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!",
+  "image": "https://pl.wizcase.com/wp-content/uploads/2020/02/Chrome-Logo.jpg"
+  },
+  {
+    "name": "MS Edge",
+    "desc": "is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4nqTh"
+  }
+]
